@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<item>
+			<!-- 是否为付费区 1:是 0:否 -->
+		    <isPayArea>0</isPayArea>
+		</item>
+	</channel>
+
+	<channel1>
+        <item>
+            <title>票卡分析</title>
+            <qrc>qrc:/MainUI/test.qml</qrc>
+        </item>
+        <item>
+            <title>站员业务</title>
+			<qrc></qrc>
+        </item>
+        <item>
+            <title>购票</title>
+			<qrc></qrc>
+        </item>
+        <item>
+            <title>敬请期待</title>
+			<qrc></qrc>
+        </item>
+    </channel1>
+	
+	<channel2>
+        <item>
+            <title>票卡处理</title>
+            <qrc>qrc:/MainUI/test123.qml</qrc>
+        </item>
+        <item>
+            <title>站员业务</title>
+			<qrc></qrc>
+        </item>
+        <item>
+            <title>购票</title>
+			<qrc></qrc>
+        </item>
+        <item>
+            <title>敬请期待</title>
+			<qrc></qrc>
+        </item>
+    </channel2>
+	
+</rss>

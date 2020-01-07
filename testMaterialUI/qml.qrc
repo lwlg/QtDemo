@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MainUI/Login.qml</file>
+        <file>MainUI/main.qml</file>
+        <file>MainUI/mainGuest.qml</file>
+        <file>MainUI/test.qml</file>
+        <file>MainUI/unpayAreaUpdate.qml</file>
+        <file>MainUI/selfCheck.qml</file>
+        <file>LinePage.qml</file>
+        <file>SationBtn.qml</file>
+    </qresource>
+    <qresource prefix="/cfg">
+        <file>menu.xml</file>
+    </qresource>
+</RCC>
